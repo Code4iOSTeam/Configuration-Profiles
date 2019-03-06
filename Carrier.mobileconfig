@@ -1,0 +1,148 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadIdentifier</key>
+			<string>com.serverdbs.carrier</string>
+			<key>PayloadType</key>
+			<string>com.apple.defaults.managed</string>
+			<key>PayloadUUID</key>
+			<string>E88A0C76-DAC7-11E8-9F8B-F2801F1B9FD1</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadContent</key>
+			<array>
+				<dict>
+					<key>DefaultsDomainName</key>
+					<string>com.apple.operator</string>
+					<key>DefaultsData</key>
+					<dict>
+<key>StatusBarImages</key>
+<array>
+ <dict>
+  <key>AllowPrefixMatching</key>
+  <false/>
+  <key>CarrierName</key>
+  <string>Verizon</string>
+  <key>StatusBarCarrierName</key>
+  <string>Code4iOS</string>
+ </dict>
+</array>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This profile changes the carrier name in the StatusBar.</string>
+	<key>PayloadDisplayName</key>
+	<string>Carrier Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>com.serverdbs.carrier</string>
+	<key>PayloadOrganization</key>
+	<string>Code4iOS</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>58B16F6E-E3FE-4E17-828D-8D5C474910A9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>SignerCerts</key>
+	<array>
+		<data>
+MIIFUzCCBDugAwIBAgIIWOJdzSZioOUwDQYJKoZIhvcNAQELBQAwgYwxQDA+BgNV
+BAMMN0FwcGxlIEFwcGxpY2F0aW9uIEludGVncmF0aW9uIDIgQ2VydGlmaWNhdGlv
+biBBdXRob3JpdHkxJjAkBgNVBAsMHUFwcGxlIENlcnRpZmljYXRpb24gQXV0aG9y
+aXR5MRMwEQYDVQQKDApBcHBsZSBJbmMuMQswCQYDVQQGEwJVUzAeFw0xODA0MDIy
+MzAwNDBaFw0yMTA0MDEyMzAwNDBaMHMxLjAsBgNVBAMMJUFwcGxlQ2FyZSBQcm9m
+aWxlIFNpZ25pbmcgQ2VydGlmaWNhdGUxHzAdBgNVBAsMFkNvbmZpZ3VyYXRpb24g
+UHJvZmlsZXMxEzARBgNVBAoMCkFwcGxlIEluYy4xCzAJBgNVBAYTAlVTMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvHTtWuAwskQHv1fi5gvVCsR9mR/w
+B9kElI5nSHYcoHrn3X7QV4r/sJLi6omWs1uGlKcKlLCngwTY8DwPL+hiB5ApV9BV
++jjcMtSr8W5z3Ceh2bo1uN+2yi0smdrfmddAP0Vi4Dda7dV0+v9KCMyiL2R4E8+T
+EdQqW40u7GGuWvEFV/qha2dxwq1oXiMF0zhnRotNYsSVMV0YKNEwVwkYPnq8fB0f
+0uNGElzETX7PKPUa1AgfgKIhTSwtOrIHJ/+Mth9vwvHbqqSbSJne0G5KXVPYmtxF
+o5S7lPX8hGQVw+pLYwoUPxNqxbqzP/7+5tw2xm4EcgoTXcC6zo5AzQkyFwIDAQAB
+o4IBzzCCAcswQAYIKwYBBQUHAQEENDAyMDAGCCsGAQUFBzABhiRodHRwOi8vb2Nz
+cC5hcHBsZS5jb20vb2NzcDA0LWFhaWNhMDIwHQYDVR0OBBYEFHhMemlFJ2ecTrLc
+tLa3HgrGQlglMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAU9758IWCR2z0be9g6
+MoFp355sf5swggEOBgNVHSAEggEFMIIBATCB/gYJKoZIhvdjZAUBMIHwMCgGCCsG
+AQUFBwIBFhxodHRwOi8vd3d3LmFwcGxlLmNvbS9hcHBsZWNhMIHDBggrBgEFBQcC
+AjCBtgyBs1JlbGlhbmNlIG9uIHRoaXMgY2VydGlmaWNhdGUgYnkgYW55IHBhcnR5
+IGFzc3VtZXMgYWNjZXB0YW5jZSBvZiB0aGUgdGhlbiBhcHBsaWNhYmxlIHN0YW5k
+YXJkIHRlcm1zIGFuZCBjb25kaXRpb25zIG9mIHVzZSwgY2VydGlmaWNhdGUgcG9s
+aWN5IGFuZCBjZXJ0aWZpY2F0aW9uIHByYWN0aWNlIHN0YXRlbWVudHMuMA4GA1Ud
+DwEB/wQEAwIHgDAXBgNVHSUBAf8EDTALBgkqhkiG92NkBBAwDQYJKoZIhvcNAQEL
+BQADggEBAIiFIpfRr6AyCFbivQ+RBcgBAIMUTL1iXsRxZI9s6pNoyAjyHfuexKxB
+wTaIlcm8suvJsoFNSYOaqkII8cWHexFRVgHvUgoV8bMgmWpb8VPJ/Ht03beYFltZ
+N7ThTDityo4Nc2jRJxMqmSCaQsVYs4jf/HzqfDEpm1mPxlbpRhVyIFSFZ62TlWZq
+L4PIUXBH5/k2TqW9D753y9x5d05fSN1r8Ln7bOokj8BJh/TE6wUczhSOs4IEqm/1
+c82M//uD/F70USHSNg8eYG0QQfWrGwpKr4hNmk9BI0I1YBwa4yZoYTlR+yog7MlV
+5Bi7A+bDgB5S3312LvNhG8yggFGAAAw=
+		</data>
+		<data>
+MIIEGDCCAwCgAwIBAgIIBLn7ZZFKmGkwDQYJKoZIhvcNAQELBQAwYjELMAkG
+		A1UEBhMCVVMxEzARBgNVBAoTCkFwcGxlIEluYy4xJjAkBgNVBAsTHUFwcGxl
+		IENlcnRpZmljYXRpb24gQXV0aG9yaXR5MRYwFAYDVQQDEw1BcHBsZSBSb290
+		IENBMB4XDTEzMDUyNDE3NDMzN1oXDTI4MDUyNDE3NDMzN1owgYwxQDA+BgNV
+		BAMMN0FwcGxlIEFwcGxpY2F0aW9uIEludGVncmF0aW9uIDIgQ2VydGlmaWNh
+		dGlvbiBBdXRob3JpdHkxJjAkBgNVBAsMHUFwcGxlIENlcnRpZmljYXRpb24g
+		QXV0aG9yaXR5MRMwEQYDVQQKDApBcHBsZSBJbmMuMQswCQYDVQQGEwJVUzCC
+		ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALhIoWdsVgid5XDFRvSv
+		heO9Ot6h59moNjwZYqV8FaBHs2uBGxCs/th05g41sFhPdNij/u0t7qRzJVnU
+		ltwmz50ni1Sc3JKx4DMSGGKZyLmvNhikaoGRpxVt3d0PLcwFgR19EMwpiaPJ
+		DJmqouzZAWdpBwI8F79EKCSxxCw11rECAAgl71CnB9slxsNPb1uHvirxk6fU
+		bF6yOS4EqeFtHDuuOXE/BPO59FedIwBPmYNen/AMAVi+tdHs17J+wmXi8ew8
+		pvxu21az7goGsgtLyaLw8TH2rt41bMOAXlBjkLa6bVzA458mg0od3pupsFpv
+		+5trgezd3zLe/C5Cosp4WtcCAwEAAaOBpjCBozAdBgNVHQ4EFgQU9758IWCR
+		2z0be9g6MoFp355sf5swDwYDVR0TAQH/BAUwAwEB/zAfBgNVHSMEGDAWgBQr
+		0GlHlHYJ/vRrjS5ApvdHTX8IXjAuBgNVHR8EJzAlMCOgIaAfhh1odHRwOi8v
+		Y3JsLmFwcGxlLmNvbS9yb290LmNybDAOBgNVHQ8BAf8EBAMCAQYwEAYKKoZI
+		hvdjZAYCAwQCBQAwDQYJKoZIhvcNAQELBQADggEBAJXNjf2kXfXxwIdJh92z
+		M5OthBLQIZPj2dbarwkigmANPFlC8S0Bk7Y///Qq9O4VanjBLvs7TBCuZUPL
+		z6gO6z03kEUvCEqNqIhrGRcR4prb72e4B/Hk2IYLcXfT84ngr6TqKAWkPzR5
+		ZTaDVBJBcdcdEiHcUFVFzo6899xV0LPKKFGsc1EHrHl/i26SoDcJYTEvodG6
+		6+FcN8DY0RsM5+AQUkKklH+L9mAiYHygwD/BlYXVwidjsGJWme0l9MyImZnc
+		VBwXBQG3eeiBhThAwrkI7U1i1Cv2KQbxZ6HhHQWNcgx3DvaglCtRiBKEU/Lz
+		kgkIhPPov6ETJs/8F5I3u0A=
+		</data>
+<data>
+MIIFPjCCBCagAwIBAgIQJDD/8hboHY9ObB1/Z/P4dzANBgkqhkiG9w0BAQsFADB6
+MTcwNQYDVQQDDC5Db2RlNGlPUyBQcm9maWxlIFNpZ25pbmcgQ2VydGlmaWNhdGUg
+QXV0aG9yaXR5MR8wHQYDVQQLDBZDb25maWd1cmF0aW9uIFByb2ZpbGVzMREwDwYD
+VQQKDAhDb2RlNGlPUzELMAkGA1UEBhMCVVMwHhcNMTgxMTA0MjMyMjM0WhcNMTkx
+MTA0MjM0MjMyWjCBsjELMAkGA1UEBhMCVVMxLTArBgNVBAMMJENvZGU0aU9TIFBy
+b2ZpbGUgU2lnbmluZyBDZXJ0aWZpY2F0ZTEfMB0GA1UECwwWQ29uZmlndXJhdGlv
+biBQcm9maWxlczERMA8GA1UECgwIQ29kZTRpT1MxGDAWBgoJkiaJk/IsZAEBDAhD
+b2RlNGlPUzEmMCQGCSqGSIb3DQEJARYXZGV2ZWxvcGVyQHNlcnZlcmRicy5jb20w
+ggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDFK8Y4mxPuxyyctVuIyhhC
+95FSjYLF2UDKO/Cgx7V4H2cRSNiQLyvPr6TCJx+wfD9z4xcQbkIYkMTlshtO8zJv
+kw70wUNA4zqHaHyYUxrEBIG9pkhw0iZFP73rOhckRL9TT6KxZKfrFs7MfGitLLo4
+vZpY1SkZET5c0jAxu2/87HD798ZOpv1S+ZjZFAt91LhpQcLtATLQussUUSlUPvjc
+bAV15mAO3xFgRD4vQXALtDUGYTM3oHPoYrm89DubyNn1HnxRe3fAJfDIEkinFVvH
+Q0mFI7QnnjZ35U52e7c9UML1hqhmxlhRoBWFywn21AmRXDsu2NTii/4uES8JaRGo
+B+0gmCiAKWn6hgcQ4gUsazzvqXWgUZWA0SBjOt3Ld3XAohiSGTtrcbHhWO7fRlAA
+yf8LDOyafSUQyoqYEY8ZuWc3p/taRrFsy5NLqJK2ZrgvkY8jeUR6NY/epicEUEqa
+GKNYQJIX2HTLhRnxKxu7DU1RuqZixjX5rp27/K/bZQ6sRCdYm56yhA72FUT4fa2c
+EKj7ZUzsW8fPnWFPV8j6mW2vJp4ha3yNUVrWCMkYE01XlfUEW/3UXvQZZM8H0NPz
+4vP26Mhqb90n6ngqto7LkC4jS0/4QJ3IH3tz1lr0+vwFdLE8Xf5lxz2usQblGmng
+ccHube36iLO9YPoPMD0w6QIDAQABo4GGMIGDMA4GA1UdDwEB/wQEAwIHgDAYBgNV
+HREEETAPgg1zZXJ2ZXJkYnMuY29tMBcGA1UdJQEB/wQNMAsGCSqGSIb3Y2QEEDAf
+BgNVHSMEGDAWgBTKRim6cWI/pRdRlcAi+Kz90HKENTAdBgNVHQ4EFgQUar4pXS3Q
+Wa5Mk3KI72zaZTQlm2UwDQYJKoZIhvcNAQELBQADggEBAFVk8vmC14aOdTKQd1Tv
+6UL5P0rP+CKRfbMTol45Fz6NeNHH7XCQx5WohYD+2SuM9Dea/z9llPhsSzaoUD2U
+HUrs1l6SK447ZcNWLPDtt8O9CNAUu1TPEbdN88/Aa4X9vdqdrv4JL3jv5jNbe+TG
+B7Jj0FMh+nMLpaZI5r0dSB7Q7T0UeLqIXvm1KhV1YuS6fwC3d1o3siAu07ghSxsH
+t3UqnnW8Od/5TW4lADxq0MQEA/Szq+eT3hKK0EIC/YYjeWzlsWwhOEhWCPfAQa/n
+PkmvY2ZIL0Nu/Ll9ltzNOx9ggJB0+uZDNn9Pz8goIDWoCN5OGBkkvEVxh1aVxPij
+HbY=
+</data>
+	</array>
+</dict>
+</plist>
