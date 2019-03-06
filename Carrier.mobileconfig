@@ -21,17 +21,17 @@
 					<string>com.apple.operator</string>
 					<key>DefaultsData</key>
 					<dict>
-<key>StatusBarImages</key>
-<array>
- <dict>
-  <key>AllowPrefixMatching</key>
-  <false/>
-  <key>CarrierName</key>
-  <string>Verizon</string>
-  <key>StatusBarCarrierName</key>
-  <string>Code4iOS</string>
- </dict>
-</array>
+                                             <key>StatusBarImages</key>
+                                             <array>
+                                             <dict>
+                                                  <key>AllowPrefixMatching</key>
+                                                  <false/>
+                                                  <key>CarrierName</key>
+                                                  <string>Verizon</string>
+                                                  <key>StatusBarCarrierName</key>
+                                                  <string>Code4iOS</string>
+                                                </dict>
+                                           </array>
 					</dict>
 				</dict>
 			</array>
